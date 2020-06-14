@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375.03" height="350.409" viewBox="0 0 375.03 350.409">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#70d8f8"/>
+      <stop offset="1" stop-color="#7cb4fd"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9e4bc"/>
+      <stop offset="1" stop-color="#ffa300"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_1004" data-name="Group 1004" transform="translate(-1677.646 -937.585)">
+    <path id="Path_2527" data-name="Path 2527" d="M10277.9-3341.354c-20.428,0-67.518.7-118.661,4.529-71.246,21.262-176.751,20.72-182.061,53.963-8.565,53.617,279.459,175.474,266.462,155.977s-194.973-207.97-194.973-246.964,194.973,90.987,194.973,90.987Z" transform="translate(-8743.428 335.083) rotate(22)" opacity="0.71" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_50" data-name="Ellipse 50" cx="51" cy="51" r="51" transform="translate(1819 1025)" opacity="0.71" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
