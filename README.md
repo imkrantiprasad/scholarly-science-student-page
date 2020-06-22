@@ -1,1 +1,0 @@
-# scholarly-science-student-page
